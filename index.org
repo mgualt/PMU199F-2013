@@ -38,14 +38,14 @@ Mathematical discovery and creative problem solving
 
 * Assignments
 * Essay in a straight-jacket
-  The micro-essays within the assignments should be 300-500
+  The micro-essays within the assignments should be between 300 and 500
   words. They must be preceded by an outline. The mini-essay should
   have a simple structure and a clear idea, and should avoid
   embellishments and flowery language. Stick to clear factual
   statements and ensure that each sentence carries actual content and
-  does not duplicate previous statements. 
-  Evaluation will be by two main criteria: Does the essay make a clear
-  statement? Does it make an interesting statement? 
+  does not duplicate previous statements.  Evaluation will be by two
+  main criteria: Does the essay make a clear statement? Does it make
+  an interesting statement?
 
 * Writing assistance
   - [[http://www.writing.utoronto.ca/writing-centres/learning][Writing Centre]]
