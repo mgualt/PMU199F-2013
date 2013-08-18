@@ -50,7 +50,7 @@ Mathematical discovery and creative problem solving
 * Writing assistance
   - [[http://www.writing.utoronto.ca/writing-centres/learning][Writing Centre]]
   - [[http://www.writing.utoronto.ca/news/writing-plus][Writing workshops]]
-  - [[http://www.writing.utoronto.ca/advice/using-sources/how-not-to-plagiarize][How not to plagiarize]] [[http://youtu.be/IL4vWJbwmqM][Alternative viewpoint]]
+  - [[http://www.writing.utoronto.ca/advice/using-sources/how-not-to-plagiarize][How not to plagiarize]]/[[http://youtu.be/IL4vWJbwmqM][Alternative viewpoint]]
   - [[http://www.writing.utoronto.ca/advice/using-sources/documentation][How to reference properly]]
   - [[http://www.artsci.utoronto.ca/current/undergraduate/ell][Improving your English]]
 
