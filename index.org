@@ -27,11 +27,11 @@ Mathematical discovery and creative problem solving
    _Evaluation:_ Participation/presentation 30%, Assignments 70%\\
       
    This course is an exploration of great ideas in mathematics.  Some
-   of the topics we will encounter are centuries-old, while others are
+   of the topics we will study are centuries-old, while others are
    still under active development today.  Among other things, we will
    learn about the concept of infinity, the nature of space and
    spacetime, the meaning of higher-dimensional polyhedra, and how to
-   build and understand fractals. Students will read and critique
+   create and understand fractals. Students will read and critique
    assigned texts and videos, write micro-essays, carry out
    experiments, develop mathematical intuition and skills, and engage
    in class discussion.
