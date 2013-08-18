@@ -1,0 +1,93 @@
+#+TITLE: Mathematical explorations
+#+DATE: <2013-08-17 Sat>
+#+AUTHOR: Marco Gualtieri
+#+EMAIL: mgualt@math.toronto.edu
+#+OPTIONS: ':t *:t -:t ::t <:t H:3 \n:nil ^:t arch:headline
+#+OPTIONS: author:t c:nil creator:comment d:(not LOGBOOK) date:t e:t
+#+OPTIONS: email:nil f:t inline:t num:nil p:nil pri:nil stat:t tags:t
+#+OPTIONS: tasks:t tex:t timestamp:t toc:nil todo:t |:t
+#+CREATOR: Emacs 24.3.50.1 (Org mode 8.0.7)
+#+EXCLUDE_TAGS: noexport
+#+LANGUAGE: en
+#+SELECT_TAGS: export
+#+OPTIONS: html-postamble:nil html-preamble:t
+#+CREATOR: <a href="http://www.gnu.org/software/emacs/">Emacs</a> 24.3.50.1 (<a href="http://orgmode.org">Org</a> mode 8.0.7)
+#+HTML_CONTAINER: div
+#+HTML_DOCTYPE: <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+#+HTML_HEAD: <link rel="stylesheet" type="text/css" href="stylesheet.css" />
+Mathematical discovery and creative problem solving
+
+* Course information
+  :PROPERTIES: 
+  :HTML_CONTAINER_CLASS: courseinfo
+  :END:
+   _Code:_ [[http://www.artsandscience.utoronto.ca/ofr/1213_199/pmu199h1.html#L0291F][PMU199F]]\\
+   _Instructor:_ [[http://www.math.toronto.edu/mgualt][Marco Gualtieri]], office hours by appointment.\\
+   _Class schedule:_ R3-5 \\
+   _Evaluation:_ Participation/presentation 30%, Assignments 70%\\
+      
+   This course is an exploration of great ideas in mathematics.  Some
+   of the topics we will encounter are centuries-old, while others are
+   still under active development today.  Among other things, we will
+   learn about the concept of infinity, the nature of space and
+   spacetime, the meaning of higher-dimensional polyhedra, and how to
+   build and understand fractals. Students will read and critique
+   assigned texts and videos, write micro-essays, carry out
+   experiments, develop mathematical intuition and skills, and engage
+   in class discussion.
+
+* Assignments
+
+* Essay in a straight-jacket
+  The micro-essays within the assignments should be 300-500
+  words. They must be preceded by an outline. The mini-essay should
+  have a simple structure and a clear idea, and should avoid
+  embellishments and flowery language. Stick to clear factual
+  statements and ensure that each sentence carries actual content and
+  does not duplicate previous statements. 
+  Evaluation will be by two main criteria: Does the essay make a clear
+  statement? Does it make an interesting statement? 
+
+
+* Writing assistance
+  - [[http://www.writing.utoronto.ca/writing-centres/learning][Writing Centre]]
+  - [[http://www.writing.utoronto.ca/news/writing-plus][Writing workshops]]
+  - [[http://www.writing.utoronto.ca/advice/using-sources/how-not-to-plagiarize][How not to plagiarize]]
+  - [[http://www.writing.utoronto.ca/advice/using-sources/documentation][How to reference properly]]
+  - [[http://www.artsci.utoronto.ca/current/undergraduate/ell][Improving your English]]
+
+* Accessibility Needs
+If you require accommodations for a disability, contact [[http://studentlife.utoronto.ca/accessibility][Accessibility Services]].
+
+
+
+* COMMENT 
+#+srcname: org-publish
+#+BEGIN_SRC emacs-lisp
+  (setq org-html-head-include-default-style nil)
+  (setq org-html-head-include-scripts nil)
+  (setq org-publish-project-alist
+          '(("org"
+             :base-extension "org"
+             :publishing-function org-html-publish-to-html
+             :base-directory "." 
+             :publishing-directory "."
+             :section-numbers nil
+             :with-toc nil
+             :html-head "<link rel=\"stylesheet\"
+                          href=\"stylesheet.css\"
+                          type=\"text/css\"/>"
+             )
+            ;; ("css"
+            ;;  :base-extension "css"
+            ;;  :publishing-function org-publish-attachment
+            ;;  :base-directory "."
+            ;;  :publishing-directory "./public_html"
+            ;;  )
+             )
+          )
+#+END_SRC
+
+#+RESULTS:
+| org | :base-extension | org | :publishing-function | org-html-publish-to-html | :base-directory | . | :publishing-directory | . | :section-numbers | nil | :with-toc | nil | :html-head | <link rel="stylesheet"\n                        href="stylesheet.css"\n                        type="text/css"/> |
+
