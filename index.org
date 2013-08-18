@@ -37,7 +37,6 @@ Mathematical discovery and creative problem solving
    in class discussion.
 
 * Assignments
-
 * Essay in a straight-jacket
   The micro-essays within the assignments should be 300-500
   words. They must be preceded by an outline. The mini-essay should
@@ -48,11 +47,10 @@ Mathematical discovery and creative problem solving
   Evaluation will be by two main criteria: Does the essay make a clear
   statement? Does it make an interesting statement? 
 
-
 * Writing assistance
   - [[http://www.writing.utoronto.ca/writing-centres/learning][Writing Centre]]
   - [[http://www.writing.utoronto.ca/news/writing-plus][Writing workshops]]
-  - [[http://www.writing.utoronto.ca/advice/using-sources/how-not-to-plagiarize][How not to plagiarize]]
+  - [[http://www.writing.utoronto.ca/advice/using-sources/how-not-to-plagiarize][How not to plagiarize]] [[http://youtu.be/IL4vWJbwmqM][Alternative viewpoint]]
   - [[http://www.writing.utoronto.ca/advice/using-sources/documentation][How to reference properly]]
   - [[http://www.artsci.utoronto.ca/current/undergraduate/ell][Improving your English]]
 
