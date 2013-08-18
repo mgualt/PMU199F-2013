@@ -78,16 +78,11 @@ If you require accommodations for a disability, contact [[http://studentlife.uto
                           href=\"stylesheet.css\"
                           type=\"text/css\"/>"
              )
-            ;; ("css"
-            ;;  :base-extension "css"
-            ;;  :publishing-function org-publish-attachment
-            ;;  :base-directory "."
-            ;;  :publishing-directory "./public_html"
-            ;;  )
-             )
+            )
           )
 #+END_SRC
 
 #+RESULTS:
 | org | :base-extension | org | :publishing-function | org-html-publish-to-html | :base-directory | . | :publishing-directory | . | :section-numbers | nil | :with-toc | nil | :html-head | <link rel="stylesheet"\n                        href="stylesheet.css"\n                        type="text/css"/> |
+
 
