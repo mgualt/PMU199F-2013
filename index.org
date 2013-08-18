@@ -35,7 +35,6 @@ Mathematical discovery and creative problem solving
    assigned texts and videos, write micro-essays, carry out
    experiments, develop mathematical intuition and skills, and engage
    in class discussion.
-
 * Assignments
 * Essay in a straight-jacket
   The micro-essays within the assignments should be between 300 and 500
